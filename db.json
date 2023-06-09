@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "email": "krunal@gmail.com",
+      "password": "1234656",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "1630",
+      "id": 2
+    },
+    {
+      "email": "krunal@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
